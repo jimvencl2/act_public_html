@@ -1,0 +1,12 @@
+log
+logs
+modules
+run
+!/deployments/i2b2.war/
+*.cer
+*.key
+*.jar
+*.class
+*.ear
+*.logs
+*.log
